@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "516450506887",
+    "project_id": "duetto-b9496",
+    "storage_bucket": "duetto-b9496.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516450506887:android:09be7ce1ee93cdf253c022",
+        "android_client_info": {
+          "package_name": "com.example.duetto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "516450506887-6r161tdminr1jqfjoncj4k9ko78pf69d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdv1H9utTS3ARV8ULkQqgDgM-dM6aOUvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "516450506887-6r161tdminr1jqfjoncj4k9ko78pf69d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
