@@ -33,7 +33,18 @@
             app:layout_behavior="@string/appbar_scrolling_view_behavior">
         </FrameLayout>
 
-
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageButton
+                android:id="@+id/addnewtaskfab"
+                android:layout_width="64dp"
+                android:layout_height="64dp"
+                android:background="@drawable/fab_button"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_margin="32dp"/>
+        </RelativeLayout>
 
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
